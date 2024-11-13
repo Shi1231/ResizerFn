@@ -1,0 +1,15 @@
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\ResReplacer.exe
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\ResReplacer.deps.json
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\ResReplacer.runtimeconfig.json
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\ResReplacer.dll
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\ResReplacer.pdb
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.AssemblyInfo.cs
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.dll
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\refint\ResReplacer.dll
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.pdb
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ResReplacer.genruntimeconfig.cache
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\obj\Release\net6.0\ref\ResReplacer.dll

@@ -1,0 +1,5 @@
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\publish\ResReplacer.exe
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\publish\ResReplacer.dll
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\publish\ResReplacer.deps.json
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\publish\ResReplacer.runtimeconfig.json
+C:\Users\chris\Documents\Visual Studio 2022\Projects\ResReplacer\bin\Release\net6.0\publish\ResReplacer.pdb
